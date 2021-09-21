@@ -8,3 +8,5 @@ relative_links:
 include:
   - README.md
   - Week5.md
+name: "Richard Luo"
+title_separator: "|"
