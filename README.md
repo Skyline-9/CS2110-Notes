@@ -2,4 +2,4 @@
 Richard Luo
 Fall 2021
 
-[Week 5 Notes](Week5.md)
+Read the notes here https://github.com/Skyline-9/CS2110-Notes/wiki
